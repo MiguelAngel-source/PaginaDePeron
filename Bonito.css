@@ -1,0 +1,101 @@
+/* img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+} */
+
+
+h1{
+    text-align: center;
+    
+}
+article{
+    font-size: 150%;    
+}
+body{
+    /* background-color: rgb(222, 240, 227); */
+    background: #1C6EA4;
+    background: -moz-linear-gradient(left, #1C6EA4 0%, #2388CB 15%, #144E75 100%);
+    background: -webkit-linear-gradient(left, #1C6EA4 0%, #2388CB 15%, #144E75 100%);
+    background: linear-gradient(to right, #1C6EA4 0%, #2388CB 15%, #144E75 100%);
+    min-height: 150px;
+    /* text-align: center; */
+
+
+}
+
+#articulo{
+    /* background-color: cornsilk; */
+    padding-left: 30mm;
+    padding-right: 30mm;
+}
+#articulo2{
+    /* background-color: cornsilk; */
+    padding-left: 30mm;
+    padding-right: 30mm;
+}
+
+#articulo3{
+    /* background-color: cornsilk; */
+    padding-left: 30mm;
+    padding-right: 30mm;
+}
+
+#imagen1{
+    position: relative;
+    left: 650px;
+    border-radius: 25px;
+
+}
+
+#imagen2{
+    position: relative;
+    left: 900px;
+    border-radius: 25px;
+}
+
+#imagen3{
+    position: relative;
+    left: -350px;
+    border-radius: 25px;
+    height: 250px;
+    width: auto;
+}
+
+
+#Menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:#333;
+    overflow: hidden;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(73, 111, 236));
+}
+#Menusub{
+    /* display: inline; */
+    float: left;
+    
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+li a:hover{
+    background-color: rgb(101, 103, 207);
+}
+
+/* Eva Peron */
+#Eva2{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+
+/* https://htmlcheatsheet.com/css/ */
+/* https://wordhtml.com */
